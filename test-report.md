@@ -7,6 +7,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
+
 * [Карта VISA с номером из 19 цифр отмечается как невалидная](https://github.com/Yu-Smirnova/java-hw-1-part1/issues/1#issue-884900827)
 * [Карты American Express (AMEX) отмечаются как невалидные](https://github.com/Yu-Smirnova/java-hw-1-part1/issues/2#issue-884958766)
 
